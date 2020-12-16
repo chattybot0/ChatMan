@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 const ms = require("ms");
 var bot;
 const fs = require("fs");
-var version = "3";
+var version = "3.1";
 
 function setStuff() {
 	try {
